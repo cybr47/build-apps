@@ -128,5 +128,6 @@ integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "revanced/revanced-cli"
 rv-brand = "ReVanced Extended Fork ReX"
 build-mode = "both"
+excluded-patches = "custom-branding"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
