@@ -8,7 +8,7 @@ build-mindetach-module = true
 [YouTube-Extended] 
 enabled = true
 app-name = "YouTube"
-patches-source = "YT-Advanced/ReX-patches"
+patches-source = "cybr47/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "revanced/revanced-cli"
 rv-brand = "ReVanced Extended Fork ReX"
