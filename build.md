@@ -1,22 +1,22 @@
 YouTube: 18.32.39  
 Music (arm64-v8a): 6.17.52  
 Music (arm-v7a): 6.17.52  
-Twitch: 15.4.1  
 Twitter: 10.5.0-release.1  
+Twitch: 15.4.1  
 TikTok: 31.1.4  
 Reddit: 2023.34.0  
 Spotify: 8.8.66.563  
 Spotify-Lite: 1.9.0.43809  
 Backdrops: 4.52  
-IconPackStudio: 2.2 build 007  
 NyxMusicPlayer: 2.2.7  
+IconPackStudio: 2.2 build 007  
 TickTick (arm64-v8a): 6.7.0.2  
 TickTick (arm-v7a): 6.7.0.2  
 Tasker: 6.2.12-rc  
 Instagram (arm64-v8a): 275.0.0.27.98  
 Instagram (arm-v7a): 275.0.0.27.98  
-InShorts (arm-v7a): 5.6.5  
 InShorts (arm64-v8a): 5.6.5  
+InShorts (arm-v7a): 5.6.5  
 Music-Extended (arm-v7a): 6.17.52  
 Music-Extended (arm64-v8a): 6.17.52  
 YouTube-Extended: 18.34.37  
